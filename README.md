@@ -157,7 +157,7 @@ protected void onPause() {
 protected void onResume() {
     // TODO - Adknowva SDK Library
     if (bav != null) {
-        bav.activityonResume();
+        bav.activityOnResume();
     }
     // TODO - Adknowva SDK Library
     super.onResume();
