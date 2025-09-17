@@ -5,7 +5,7 @@
 
 AdKnowva_V2 has an integration method based on Gradle. Plus, we supply sample application, thus you may easily integrate our service through those examples. 
 You can check full contents of guide documents by downloading the files from the **“Download All AdKnowva_V2 Sample Projects”** menu below. 
-Currently, the latest version is **1.5.2**.
+Currently, the latest version is **1.5.8**.
 
 
 
@@ -71,8 +71,8 @@ dependencies {
 	/**
 	* adknowva sdk , play-service-ads 
 	*/
-	implementation 'com.google.android.gms:play-services-ads:20.6.0' // Please use that version or higher.
-	implementation 'com.adknowva.adlib:AdknowvaAdLib:1.5.2' // Please implement after checking the latest version.
+	implementation 'com.google.android.gms:play-services-ads-identifier:18.0.1' // Please use that version or higher.
+	implementation 'com.adknowva.adlib:AdknowvaAdLib:1.5.8' // Please implement after checking the latest version.
 	.
 	.
 }
